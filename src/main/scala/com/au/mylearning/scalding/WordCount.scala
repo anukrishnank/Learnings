@@ -1,3 +1,5 @@
+package com.au.mylearning.scalding
+
 import com.twitter.scalding._
 
 class WordCountJob(args: Args) extends Job(args) {

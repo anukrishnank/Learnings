@@ -1,3 +1,5 @@
+package com.au.mylearning.scala
+
 /**
  * Created by kurichak on 28/01/16.
  */
