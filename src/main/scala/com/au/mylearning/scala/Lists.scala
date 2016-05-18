@@ -1,8 +1,5 @@
 package com.au.mylearning.scala
 
-/**
- * Created by kurichak on 28/01/16.
- */
 object Lists {
   def main(args: Array[String]) {
 
@@ -21,6 +18,8 @@ object Lists {
     }
 
     println(sum(num))
+
+    println(num.partition(_ % 2 == 0))
 
   }
 }
